@@ -1,0 +1,15 @@
+.Header {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 3rem;
+
+	> .brand {
+		font-size: 4rem;
+		font-family: 'Homemade Apple', cursive;
+	}
+
+	> button {
+		margin-left: 4rem;
+	}
+}
